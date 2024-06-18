@@ -1,0 +1,13 @@
+{
+  "id" : "https://TheoBurnel.github.io/Mexicain1-10/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in TheoBurnel/Mexicain1-10 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://TheoBurnel.github.io/Mexicain1-10/manifests/manifest.json",
+    "label" : "BnF. Département des Manuscrits. Mexicain 1-10. Codex Xolotl."
+  } ]
+}
