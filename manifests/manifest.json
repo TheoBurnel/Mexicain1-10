@@ -1,0 +1,560 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://TheoBurnel.github.io/Mexicain1-10/manifests/manifest.json",
+  "label" : "BnF. Département des Manuscrits. Mexicain 1-10. Codex Xolotl.",
+  "attribution" : "Bibliothèque nationale de France",
+  "metadata" : [ {
+    "label" : "Introduction",
+    "value" : "Histoire de la nation chichimèque, depuis l'empereur Amacui Xolotl, jusqu'à Nezahualcoyotl (963-1428) inscrite sur des planches historico-géographiques consignant des anthroponymes, des toponymes, des événements historiques (généalogies, dynasties, informations administratives) et des dates."
+  }, {
+    "label" : "Possesseurs",
+    "value" : "Le manuscrit a appartenu à Fernando de Alva Ixtlilxochitl (1578?-1650), Lorenzo Boturini Benaduci (1702-1748?), Jean-Frédéric Waldeck (1766-1875) (pour les n° 2 et 3), Joseph Marius Alexis Aubin (1802-1891) et Charles Eugène Espiridion Goupil (1831-1895). Sa veuve, Augustine Goupil, née Elie, respectant le vœu de son époux, le lègue à la Bibliothèque nationale en 1898. \nLe manuscrit porte des marques de possession de ses différents collectionneurs : - Mexicain 1 : le verso du premier feuillet porte l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » et des estampilles de la Bibliothèque nationale : deux estampilles ovales « BIBLIOTH. NATIONALE. MSS », une estampille « DON N° » restée vierge du n° et l'estampille : « BIBLIOTHÈQUE NATIONALE / MANUSCRITS / R.F. »- Mexicain 1 : les versos de deux fragments portent une estampille ovale « BIBLIOTH. NATIONALE / MSS »- Mexicain 1 : le verso d'un fragment porte la mention : « JMAA / Mexico / 1832 ». Rayée, elle a été remplacée par la mention : « Appartenant à / E. Eug. Goupil / 1889 Paris 1889 ».- Mexicain 1 : le verso d'un fragment porte les estampilles « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » avec la mention à l'encre noire : « [...]la 1re feuille / N° 1 », et « BIBLIOTHÈQUE NATIONALE / MSS : R.F. »- Mexicain 2 : le recto porte une estampille ovale « BIBLIOTH. NATIONALE. MSS », l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » avec le chiffre 2 ajouté à l'encre et deux estampilles « Waldeck ». Le verso porte l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » avec le chiffre 2 ajouté au crayon et les signatures : « Appartenant à / E. Eug. Goupil / Paris 1889 » et « N° 118. / J F Waldeck ».- Mexicain 3 : le recto porte une estampille « DON N° » restée vierge du n°, l'estampille ovale « BIBLIOTH. NATIONALE / MSS », deux estampilles « Waldeck » et deux estampilles « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » dont l'une avec le chiffre 3 ajouté à l'encre. Le verso porte l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » avec le chiffre 3 ajouté au crayon, et les signatures : « Appartenant à / E. Eug. Goupil / Paris 1889 » et « N° 119. / J F Waldeck ».- Mexicain 4-10 : le verso de la couverture porte la signature : « Appartenant à / E. Eug. Goupil / Paris 1889 ».- Mexicain 4 : le recto porte une estampille « DON N° » restée vierge du n°, une estampille ovale « BIBLIOTH. NATIONALE. MSS », l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » avec le chiffre 4 ajouté à l'encre.  - Mexicain 5 : le verso porte l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » avec le chiffre 5 ajouté à l'encre.  - Mexicain 6 : le verso porte l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » avec le chiffre 6 ajouté à l'encre, une  l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » sans n° et une estampille ovale « BIBLIOTH. NATIONALE. MSS ».- Mexicain 7 : le verso porte l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » avec le chiffre 7 ajouté à l'encre, une  l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » sans n° et une estampille ovale « BIBLIOTH. NATIONALE. MSS ».- Mexicain 8 :  le verso porte l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » avec le chiffre 8 ajouté à l'encre et une estampille ovale « BIBLIOTH. NATIONALE. MSS ».- Mexicain 9 : le verso porte l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » avec le chiffre 9 ajouté à l'encre, une  l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » sans n° et une estampille ovale « BIBLIOTH. NATIONALE. MSS ».- Mexicain 10 : le verso porte l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » avec le chiffre 10 ajouté à l'encre, une  l'estampille « Collection E. Eug. GOUPIL à Paris / Ancienne Collection J. M. A. AUBIN » sans n° et une estampille ovale « BIBLIOTH. NATIONALE. MSS ».\nLe manuscrit porte par ailleurs des données manuscrites faisant référence à son intégration dans une collection ou constituant un renvoi à d'autres documents. Le verso du premier fragment porte : « 1er Volume / f° 95 ». Le verso du Mexicain 2 porte : « 1er Volume f° 98 à 111 ». Le verso du Mexicain 3 porte : « Planche n° 3 / 1er Volume f° 114 à 124 ». Le verso du Mexicain 40 porte : « 1er Volume / f° 198 à 204 »."
+  }, {
+    "label" : "Description technique",
+    "value" : "Six feuilles de papier amate, chacune d'environ 42 x 48,5 cm, avec dix des douze pages peintes et trois fragments d'une autre page peinte.\nLes feuilles ont été cousues le long du bord gauche pour se rapprocher d'un codex de style européen. Chaque feuille est composée de deux morceaux de papier amate collés dos à dos.\nLes numéros 2 et 3, qui formaient à l'origine le deuxième feuillet, ont été extraits du manuscrit entre 1746, année où Boturini en publia une description, et 1771-1788, lorsque Antonio de León y Gama (1735-1802) l'étudia et fit des copies de divers manuscrits de la collection de Boturini (sa copie du Xolotl est conservée sous la cote Mexicain 10BIS (a)).\nLes numéros 2 et 3 ont été montés séparément, et c'est dans cet état que Waldeck les a recherchés au Mexique et acquis en 1831. Les trois fragments n° 1A-C faisaient partie du morceau d'amate qui se trouvait à l'origine au verso du n° 1, constituant  l'une des moitiés du premier folio du manuscrit. Les deux numéros sont séparés l'un de l'autre et ont été montés séparément. Le côté non peint de la pièce a servi de page de titre du manuscrit.\nLe document comporte des gloses en nahuatl d'au moins trois auteurs différents : - don Alonso Axayácatl aux alentours de 1560 ; - fray Juan de Torquemada (vers 1557-1624)  avant 1612 ; - et le chroniqueur don Fernando de Alva Ixtlilxochitl (1578?-1650) entre 1598 et 1645 environ."
+  }, {
+    "label" : "Artistes",
+    "value" : "Selon Fernando de Alva Ixtlilxochitl, Cemihuitzin et Quauhquechol ont peint le manuscrit onze ans après la mort (1418) d'Ixtlilxochitl Ome Tochtli, au début de l'année 1 Silex (1428), donc immédiatement après les événements décrits."
+  }, {
+    "label" : "Textes et images",
+    "value" : "Ce manuscrit pictographique est illustré de dessins tracés d'une encre d'un noir très dense, employée pour tracer des cadres, des personnages, des glyphes toponymiques et anthroponymiques ou encore des liens. La périphérie des planches comporte des lignes rectilignes formant un cadre à l'intérieur duquel prennent place les dessins. Sur la deuxième planche, ce cadre est doublé à l'extérieur par une autre ligne de 3 mm d'épaisseur qui aurait pu être ajoutée puisque cet encadrement n'existe que sur cette planche qui fut un temps séparée du reste du Codex et parce qu'il ne figure par sur la copie de Santiago du Chili.\nDans ce cadre, des personnages, des glyphes et des liens figurent sur toutes les planches de manière à former des groupes dont certains sont unis les uns aux autres par l'intermédiaire de liens graphiques ou plastiques déterminant tout un réseau de relations et créant des récits.\n\nLes gloses en nahuatl sont portées à l'encre ferro-gallique."
+  }, {
+    "label" : "Matériaux",
+    "value" : "Le support du manuscrit est constitué de papier amate (amatl en nahuatl) mais, contrairement aux manuscrits préhispaniques habituels, sans substrat de gypse. Les personnages et les glyphes comportent des couleurs, mais qui ne sont pas présentes sur toutes les planches : les rares couleurs employées concernent surtout le paysage : bleu pour la lagune (pl. 1 à 4, 9-10), vert pour les montagnes (pl. 1-2, 9-10).\nSeules les deux premières ainsi que les fragments sont intégralement colorés à l'aide de dix couleurs (noir, bleu/bleu turquoise, brun, gris, jaune, marron, rose, rouge, vert et vert/brun.). Les troisième, quatrième, neuvième et dixième planches ne le sont que très partiellement, tandis que de la cinquième à la huitième n'en comporte pas du tout.\nDes analyses par spectroscopie de réflexion diffuse, spectroscopie Raman, et par spectroscopie de fluorescence de rayons X, menées sur la pl. 1, ont permis de déterminer que le document comprend : du bleu Maya (nuance bleue claire) et de la laque de cochenille. Cette dernière est associée avec de l’indigo (effectivement détecté) pour obtenir la nuance bleue foncée. La laque de cochenille a également été utilisée dans le brun. Malheureusement les données collectées ne permettent pas de savoir si le second ingrédient est ici de l’indigo (dans différentes proportions), ou une argile."
+  } ],
+  "sequences" : [ {
+    "canvases" : [ {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f1",
+      "label" : "Mexicain 1 (1)",
+      "height" : 6916,
+      "width" : 8096,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f1"
+          },
+          "height" : 6916,
+          "width" : 8096,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f1/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://theoburnel.github.io/Mexicain1-10/annotations/f1.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b10303816n/f1.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f2",
+      "label" : "Mexicain 1 (2)",
+      "height" : 6899,
+      "width" : 8098,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f2",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f2"
+          },
+          "height" : 6899,
+          "width" : 8098,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f2/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b10303816n/f2.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f3",
+      "label" : "Mexicain 1 (3)",
+      "height" : 6930,
+      "width" : 3551,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f3",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f3"
+          },
+          "height" : 6930,
+          "width" : 3551,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f3/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b10303816n/f3.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f4",
+      "label" : "Mexicain 1 (4)",
+      "height" : 6899,
+      "width" : 3577,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f4",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f4"
+          },
+          "height" : 6899,
+          "width" : 3577,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f4/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b10303816n/f4.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f5",
+      "label" : "Mexicain 1 (5)",
+      "height" : 7026,
+      "width" : 4781,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f5",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f5"
+          },
+          "height" : 7026,
+          "width" : 4781,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f5/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b10303816n/f5.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f6",
+      "label" : "Mexicain 1 (6)",
+      "height" : 6983,
+      "width" : 4876,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f6",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f6"
+          },
+          "height" : 6983,
+          "width" : 4876,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f6/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b10303816n/f6.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f7",
+      "label" : "Mexicain 1 (7)",
+      "height" : 2844,
+      "width" : 3612,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f7",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f7"
+          },
+          "height" : 2844,
+          "width" : 3612,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f7/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b10303816n/f7.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f8",
+      "label" : "Mexicain 1 (8)",
+      "height" : 2770,
+      "width" : 3593,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/canvas/f8",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f8"
+          },
+          "height" : 2770,
+          "width" : 3593,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/f8/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b10303816n/f8.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038190/canvas/f1",
+      "label" : "Mexicain 2 (1)",
+      "height" : 6890,
+      "width" : 7735,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038190/canvas/f1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038190/f1"
+          },
+          "height" : 6890,
+          "width" : 7735,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038190/f1/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b103038190/f1.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038190/canvas/f2",
+      "label" : "Mexicain 2 (2)",
+      "height" : 6888,
+      "width" : 7703,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038190/canvas/f2",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038190/f2"
+          },
+          "height" : 6888,
+          "width" : 7703,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038190/f2/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b103038190/f2.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038228/canvas/f1",
+      "label" : "Mexicain 3 (1)",
+      "height" : 6922,
+      "width" : 7847,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038228/canvas/f1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038228/f1"
+          },
+          "height" : 6922,
+          "width" : 7847,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038228/f1/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b103038228/f1.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038228/canvas/f2",
+      "label" : "Mexicain 3 (2)",
+      "height" : 7008,
+      "width" : 7949,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038228/canvas/f2",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038228/f2"
+          },
+          "height" : 7008,
+          "width" : 7949,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038228/f2/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b103038228/f2.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f1",
+      "label" : "Mexicain 4-10 (NP)",
+      "height" : 6735,
+      "width" : 7869,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f1"
+          },
+          "height" : 6735,
+          "width" : 7869,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f1/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b103038262/f1.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f2",
+      "label" : "Mexicain 4",
+      "height" : 6832,
+      "width" : 7904,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f2",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f2"
+          },
+          "height" : 6832,
+          "width" : 7904,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f2/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b103038262/f2.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f3",
+      "label" : "Mexicain 5",
+      "height" : 6757,
+      "width" : 7808,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f3",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f3"
+          },
+          "height" : 6757,
+          "width" : 7808,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f3/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b103038262/f3.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f4",
+      "label" : "Mexicain 6",
+      "height" : 6797,
+      "width" : 7776,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f4",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f4"
+          },
+          "height" : 6797,
+          "width" : 7776,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f4/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b103038262/f4.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f5",
+      "label" : "Mexicain 7",
+      "height" : 6831,
+      "width" : 7840,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f5",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f5"
+          },
+          "height" : 6831,
+          "width" : 7840,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f5/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b103038262/f5.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f6",
+      "label" : "Mexicain 8",
+      "height" : 6759,
+      "width" : 7854,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f6",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f6"
+          },
+          "height" : 6759,
+          "width" : 7854,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f6/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b103038262/f6.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f7",
+      "label" : "Mexicain 9",
+      "height" : 6754,
+      "width" : 7886,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f7",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f7"
+          },
+          "height" : 6754,
+          "width" : 7886,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f7/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b103038262/f7.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f8",
+      "label" : "Mexicain 10",
+      "height" : 6674,
+      "width" : 7904,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/canvas/f8",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f8"
+          },
+          "height" : 6674,
+          "width" : 7904,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b103038262/f8/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b103038262/f8.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    } ],
+    "label" : "Current Page Order",
+    "@type" : "sc:Sequence",
+    "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10303816n/sequence/default"
+  } ],
+  "thumbnail" : {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b10303816n.thumbnail"
+  },
+  "@type" : "sc:Manifest"
+}
